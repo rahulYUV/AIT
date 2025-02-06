@@ -2,7 +2,7 @@
 
 A modern, real-time drone tracking dashboard built with React, TypeScript, and WebSocket integration. Experience the future of aerial logistics with SwiftAir's cutting-edge drone monitoring system.
 
-![SwiftAir Dashboard](https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&q=80&w=1000)
+![SwiftAir Dashboard](https://images.unsplash.com/photo-1623041997614-064bb5b95af6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZHJvbmVzfGVufDB8fDB8fHww)
 
 ## ✨ Key Features
 
